@@ -1,0 +1,1 @@
+# libreria per effettuare l'upload multiplo di immagini o documenti mediante drag and drop in un'area definita della pagina html
